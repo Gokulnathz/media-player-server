@@ -1,0 +1,134 @@
+{
+  "allVideos": [
+    {
+      "id": "20",
+      "name": "Deadpool and Wolverine",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd0CcR9NUf8u8BbfILAgJh6arwhY4ZXKwleA&s",
+      "link": "https://www.youtube.com/embed/73_1biulkYk"
+    },
+    {
+      "id": "300",
+      "name": "Girl with Dragon Tattoo",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDFTXAybGXnJWpeOXS2Y5vdd5h_aaDyjbZg&s",
+      "link": "https://www.youtube.com/embed/DqQe3OrsMKI"
+    },
+    {
+      "id": "350",
+      "name": "minority report",
+      "url": "https://i0.wp.com/www.re-thinkingthefuture.com/wp-content/uploads/2021/10/A5674-An-Architectural-Review-of-Minority-Report.jpg?w=999",
+      "link": "https://www.youtube.com/embed/lG7DGMgfOb8"
+    }
+  ],
+  "history": [
+    {
+      "name": "minority report",
+      "link": "https://www.youtube.com/embed/lG7DGMgfOb8",
+      "timeStamp": "08/22/2024, 02:28:58 PM",
+      "id": 1
+    },
+    {
+      "name": "Deadpool and Wolverine",
+      "link": "https://www.youtube.com/embed/K6lJSJXSdfI",
+      "timeStamp": "08/22/2024, 02:29:22 PM",
+      "id": 2
+    },
+    {
+      "name": "bad boys 4",
+      "link": "https://www.youtube.com/embed/hRFY_Fesa9Q",
+      "timeStamp": "08/22/2024, 02:29:40 PM",
+      "id": 4
+    },
+    {
+      "name": "Girl with Dragon Tattoo",
+      "link": "https://www.youtube.com/embed/DqQe3OrsMKI",
+      "timeStamp": "08/26/2024, 03:20:56 PM",
+      "id": 5
+    },
+    {
+      "name": "Deadpool and Wolverine",
+      "link": "https://www.youtube.com/embed/K6lJSJXSdfI",
+      "timeStamp": "08/26/2024, 03:21:02 PM",
+      "id": 6
+    },
+    {
+      "name": "Girl with Dragon Tattoo",
+      "link": "https://www.youtube.com/embed/DqQe3OrsMKI",
+      "timeStamp": "08/26/2024, 03:21:13 PM",
+      "id": 7
+    },
+    {
+      "name": "Girl with Dragon Tattoo",
+      "link": "https://www.youtube.com/embed/DqQe3OrsMKI",
+      "timeStamp": "08/26/2024, 03:21:26 PM",
+      "id": 8
+    },
+    {
+      "name": "minority report",
+      "link": "https://www.youtube.com/embed/lG7DGMgfOb8",
+      "timeStamp": "08/27/2024, 01:50:37 PM",
+      "id": 9
+    },
+    {
+      "name": "Deadpool and Wolverine",
+      "link": "https://www.youtube.com/embed/K6lJSJXSdfI",
+      "timeStamp": "08/27/2024, 01:50:46 PM",
+      "id": 10
+    },
+    {
+      "name": "minority report",
+      "link": "https://www.youtube.com/embed/lG7DGMgfOb8",
+      "timeStamp": "08/27/2024, 01:50:49 PM",
+      "id": 11
+    },
+    {
+      "name": "Deadpool and Wolverine",
+      "link": "https://www.youtube.com/embed/K6lJSJXSdfI",
+      "timeStamp": "08/27/2024, 02:58:56 PM",
+      "id": 12
+    },
+    {
+      "name": "Deadpool and Wolverine",
+      "link": "https://www.youtube.com/embed/73_1biulkYk",
+      "timeStamp": "08/28/2024, 02:31:49 PM",
+      "id": 13
+    },
+    {
+      "name": "Girl with Dragon Tattoo",
+      "link": "https://www.youtube.com/embed/DqQe3OrsMKI",
+      "timeStamp": "08/28/2024, 02:32:41 PM",
+      "id": 14
+    },
+    {
+      "name": "Deadpool and Wolverine",
+      "link": "https://www.youtube.com/embed/73_1biulkYk",
+      "timeStamp": "08/28/2024, 02:33:11 PM",
+      "id": 15
+    }
+  ],
+  "category": [
+    {
+      "id": 5,
+      "categoryName": "Trailer",
+      "allVideos": [
+        {
+          "id": "350",
+          "name": "minority report",
+          "url": "https://i0.wp.com/www.re-thinkingthefuture.com/wp-content/uploads/2021/10/A5674-An-Architectural-Review-of-Minority-Report.jpg?w=999",
+          "link": "https://www.youtube.com/embed/lG7DGMgfOb8"
+        }
+      ]
+    },
+    {
+      "categoryName": "Video",
+      "allVideos": [
+        {
+          "id": "300",
+          "name": "Girl with Dragon Tattoo",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDFTXAybGXnJWpeOXS2Y5vdd5h_aaDyjbZg&s",
+          "link": "https://www.youtube.com/embed/DqQe3OrsMKI"
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
